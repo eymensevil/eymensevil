@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eymen (Deliable)!</h1>
 <h3 align="center">A person who loves developing software</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/938373220912988190)](https://discord.com/users/938373220912988190)
+<h3 align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/938373220912988190)](https://discord.com/users/938373220912988190)</h3>
 
 - 🔭 I’m currently working on: **Mineium**
 
