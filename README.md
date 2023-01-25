@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eymen (Deliable)!</h1>
 <h3 align="center">A person who loves developing software</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notdeliable&label=Profile%20views&color=0e75b6&style=flat" alt="notdeliable" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notdeliable" alt="notdeliable" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/notdeliable" target="blank"><img src="https://img.shields.io/twitter/follow/notdeliable?logo=twitter&style=for-the-badge" alt="notdeliable" /></a> </p>
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/938373220912988190)](https://discord.com/users/938373220912988190)
 
 - 🔭 I’m currently working on: **Mineium**
